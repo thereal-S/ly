@@ -118,3 +118,5 @@ disable the main box borders with `hide_borders = true`.
 ## Additional Information
 The name "Ly" is a tribute to the fairy from the game Rayman.
 Ly was tested by oxodao, who is some seriously awesome dude.
+
+.
